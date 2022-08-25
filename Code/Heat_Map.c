@@ -88,7 +88,7 @@ int events = 1700;
        TCanvas *c1 = new TCanvas();
     
         
-    TH2F *hist = new TH2F("Data", "Heat map", 10, -140, 140, 10, -140, 140);
+    TH2F *hist = new TH2F("Data", "Heat map", 14, -140, 140, 14, -140, 140);
     gStyle->SetPalette(55);
     // 53 other colour
     
@@ -115,6 +115,7 @@ int events = 1700;
     hist->GetZaxis()->SetTitle("Photons");
     hist->Fill(0.,0.,0.);
     hist->Draw("COLZ");
+    //hist->Draw("CONT4Z");
 }
 
 
