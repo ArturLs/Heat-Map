@@ -5,7 +5,7 @@
 It's a code in ROOT  involving a plot of heat map
 
 
-###INSTRUCTIONS
+### INSTRUCTIONS
 
 -  First, enter at the archive "Heat_Map.c" and put simulation events numbers, where is below "values"
 
