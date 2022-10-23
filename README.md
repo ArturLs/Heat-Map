@@ -6,7 +6,7 @@ It's a code in ROOT  involving a plot of heat map.
 
 -----------------------------------------------------------------------------
 
-### INSTRUCTIONS
+### Instructions
 
 -  First, enter at the archive "Heat_Map.c" and put simulation events numbers, where is below "values".
 -  Second, leave the "Heat_map.c" in the same local that all data  archives ( Position and number of photons).
