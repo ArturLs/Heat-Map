@@ -10,6 +10,7 @@ It's a code in ROOT  involving a plot of heat map.
 
 -  First, enter at the archive "Heat_Map.c" and put simulation events numbers, where is below "values".
 -  Second, leave the "Heat_map.c" in the same local that all data  archives ( Position and number of photons).
+-  lastly, go to the path (through the terminal) where "Heat_Map.c" is, and type command `root Heat_Map.c`
 
 -----------------------------------------------------------------------------
 
